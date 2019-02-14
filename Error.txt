@@ -1,0 +1,4 @@
+﻿文件下载网址  =>  文件保存路径
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAALElEQVQYV2NkIAAYSVFgDFR8BqrBBEifBbGRTfiPZhpYjiQFBK3A6l6CvgAAE9kGCd1mvgEAAAAASUVORK5CYII=  =>  D:\刘晓琦的D盘\仿站小工具 V3.0\demo.sc.chinaz.com\images\976a5bc67d50417baab3b2d40c331bb3.gif
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAANElEQVQYV2NkIAAYiVbw//9/Y6DiM1ANJoyMjGdBbLgJQAX/kU0DKgDLkaQAvxW4HEvQFwCRcxIJK1XznAAAAABJRU5ErkJggg==  =>  D:\刘晓琦的D盘\仿站小工具 V3.0\demo.sc.chinaz.com\images\f591e529574844118325152245bce7ad.gif
+http://demo.sc.chinaz.com/Files/DownLoad/moban/201703/moban1922/mCSB_buttons.png  =>  D:\刘晓琦的D盘\仿站小工具 V3.0\demo.sc.chinaz.com\images\mcsb_buttons.png
